@@ -64,6 +64,7 @@ note : it's good to save the project next to the vagrant file
 
 # nginx image Dockerfile (nginx)
 -you'll find the Dockerfile for this image in this location  /Docker-files/web/Dockerfile
+
 -put your own config next to the nginx Dockerfile
 
 
